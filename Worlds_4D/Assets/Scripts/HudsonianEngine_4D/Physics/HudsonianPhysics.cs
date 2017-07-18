@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-//												hi there
+
 public class HudsonianPhysics {
 
 	List<ActiveObject> activeObjects = new List<ActiveObject> ();
